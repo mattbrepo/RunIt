@@ -12,7 +12,7 @@ Simple utility to run a Windows program using different credentials. It works as
 
 CLI:
 
-runit -f "C:\Program files\Mozilla Firefox\firefox.exe" -d ""C:\Program files\Mozilla Firefox\" -u username -p password -g usergrouè -e 1 -w 0
+runit -f "C:\Program files\Mozilla Firefox\firefox.exe" -d ""C:\Program files\Mozilla Firefox\" -u username -p password -g usergroup -e 1 -w 0
 
 GUI:
 
