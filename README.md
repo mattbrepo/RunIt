@@ -1,12 +1,12 @@
 # RunIt
-Run a Windows application with given credentials
+Run a Windows application with given credentials.
 
 **Language: Visual Basic 6**
 
 **Start: 2006**
 
 ## Why
-Simple utility to run a Windows program using different credentials. It works as GUI and as CLI.
+Simple utility to run a Windows program using different credentials. It works as a GUI and as a CLI.
 
 ## Example
 
